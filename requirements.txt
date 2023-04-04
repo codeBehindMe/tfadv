@@ -4,3 +4,6 @@ scikit-learn
 tensorflow
 black
 openpyxl
+pydot
+graphviz
+plotly
